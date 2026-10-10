@@ -1,0 +1,5 @@
+meater_config.json
+meater_exports/
+__pycache__/
+*.pyc
+.DS_Store
